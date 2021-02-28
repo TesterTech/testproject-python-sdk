@@ -35,8 +35,8 @@ The example code and required dependencies are in the repository
   - ```python tests/examples/simple/web_test.py```
 ## Report
 - For the report part, visit this link: https://docs.testproject.io/testproject-sdk/opensdk-v2/python-sdk#explicit-project-and-job-names
-- Please note that if you provide a project that does not exist it will be created through SDK... BUT will not be accessible in testproject.io 
 - Click the monitor tab and see the run. 
+- Please note: if you provide a projectname for a non-existent project it will only be shown in the reports and will NOT be accessible in testproject.io as a project 
 
 # References
 - Link to blogpost about this subject created by Bas Dijkstra, I basically extended this information in this video https://blog.testproject.io/2020/07/15/getting-started-with-testproject-python-sdk/
